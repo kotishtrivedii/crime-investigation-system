@@ -202,7 +202,7 @@ java CrimeTrackGUI
 
 ## Kotish Trivedi
 
-📧 Aspiring Software Developer
+
 
 🔗 GitHub
 
