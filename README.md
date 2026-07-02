@@ -146,7 +146,8 @@ The desktop application provides:
 
 ---
 
-# 📷 Application Screenshots
+## 📸 Application Preview
+<img width="1920" height="1200" alt="Screenshot 2026-07-02 122238" src="https://github.com/user-attachments/assets/96afae3c-94a9-44f4-9923-43c449004fd6" />
 
 
 
